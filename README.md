@@ -4,6 +4,9 @@
 <a href="https://github.com/wiidev/usbloadergx/actions" title="Actions"><img src="https://img.shields.io/github/actions/workflow/status/wiidev/usbloadergx/main.yml?branch=enhanced&logo=github"></a>
 </p>
 
+## Why forked
+I like things that looks "almost native", so I forked USB Loader GX and applied some customizations, for it to look more "Wii native".
+
 ## Description
 USB Loader GX allows you to play Wii and GameCube games from a USB storage device or an SD card, launch other homebrew apps, create backups, use cheats in games and a whole lot more.
 

@@ -11,3 +11,5 @@ usbloader_gx/
 /source/svnrev.c
 /usbloader_gx.zip
 /wiiload
+cache
+devkitpro
